@@ -6,7 +6,7 @@ import random
 
 
 st.set_page_config(page_title="Number Guess",page_icon=":tada:",layout="wide")
-#lottie_coding = load_lottieurl("https://lottiefiles.com/121675-young-man-having-a-good-idea")
+#lottie_codin = load_lottieurl("https://lottiefiles.com/121675-young-man-having-a-good-idea")
 
 st.markdown("<h1 style='text-align: center; color: red;'>Number Guessing Game</h1>", unsafe_allow_html=True)
 
